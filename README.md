@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🔭 I’m pursing Master in Peking University.
 - 🌱 I’m currently learning **FinTech** in PeKing University.
 - 📫 How to reach me:
-  - [Email](KarryRenKai@outlook.com)
+  - Email : KarryRenKai@outlook.com
