@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m pursing Master in Peking University.
-- 🌱 I’m currently learning **FinTech** in PeKing University.
+- 🌱 I'm currently learning **Computional Finance** in SiChuan University.
+- 🔭 I will purse Master of **Fintech** in Peking University.
 - 📫 How to reach me:
   - Email : KarryRenKai@outlook.com
