@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I'm currently learning **Computional Finance** in SiChuan University.
-- 🔭 I will purse Master of **Fintech** in Peking University.
+- ✨ I will purse Master of **Fintech** in Peking University (PHBS).
+- 🔭 I'm focusing on the research of Time Sequence Prediction.
 - 📫 How to reach me:
   - Email : KarryRenKai@outlook.com
