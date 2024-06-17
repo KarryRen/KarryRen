@@ -1,8 +1,10 @@
 ### Hello World !👋 I'm Kai Ren(Karry).
 
-- ✨ I'm pursing Master of **Fintech** in Peking University (PHBS).
-- 🌱 I'm learned the **Computional Finance** (Computer Science and Financial Engineering) in SiChuan University.
-- 🔭 I'm focusing on the research of Time Sequence Prediction.
+- ✨ I'm pursing Master of **Fintech** in Peking University.
+- 🌱 I learned the **Computional Finance**(Computer Science and Financial Engineering) in SiChuan University.
+- 🔭 I'm focusing on
+    - The research of Time Sequence Prediction.
+    - Quantitative investment.
 - 📫 How to reach me:
   - Email : KarryRenKai@outlook.com
  
