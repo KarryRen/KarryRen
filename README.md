@@ -1,6 +1,6 @@
 ### Hello World !👋 I'm Kai Ren(Karry).
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=KarryRen&show_icons=true&theme=red&count_private=true" alt="KarryRen's github stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=KarryRen&show_icons=true&count_private=true" alt="KarryRen's github stats" />
 
 - 🌱 I'm currently learning **Computional Finance** in SiChuan University.
 - ✨ I will purse Master of **Fintech** in Peking University (PHBS).
