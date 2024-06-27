@@ -7,4 +7,10 @@
   - Quantitative investment.
 - 📫 How to reach me:
   - Email : KarryRenKai@outlook.com
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KarryRen&show_icons=true&count_private=true" alt="KarryRen's github stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KarryRen/KarryRen/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KarryRen/KarryRen/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KarryRen/KarryRen/output/github-contribution-grid-snake.svg">
+</picture>
