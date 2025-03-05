@@ -5,6 +5,7 @@
 - 🔭 I'm focusing on:
   - The research of Time Sequence Prediction.
   - Quantitative investment.
+  - Finance & Government.
 - 📫 How to reach me:
   - Work Email : KarryRenKai@outlook.com
   - School Email: RenKai@stu.pku.edu.cn
