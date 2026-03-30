@@ -10,3 +10,4 @@
   - Work Email : KarryRenKai@outlook.com
   - School Email: RenKai@stu.pku.edu.cn
 
+![KarryRen GitHub stats](https://github-readme-stats.vercel.app/api?username=KarryRen&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
