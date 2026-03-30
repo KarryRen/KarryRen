@@ -9,5 +9,3 @@
 - 📫 How to reach me:
   - Work Email : KarryRenKai@outlook.com
   - School Email: RenKai@stu.pku.edu.cn
-
-![Total Stars](https://img.shields.io/github/stars/KarryRen?style=flat-square&logo=github&color=blue)
