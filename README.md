@@ -3,7 +3,7 @@
 - ✨ I'm pursing Master of **Fintech** in Peking University.
 - 🌱 I learned the **Computional Finance** (Computer Science and Financial Engineering) in Sichuan University.
 - 🔭 I'm focusing on:
-  - The research of Time Sequence Prediction.
+  - The research of time sequence prediction.
   - Quantitative investment.
   - Finance & Government.
 - 📫 How to reach me:
